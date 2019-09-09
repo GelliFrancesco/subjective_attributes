@@ -3,7 +3,7 @@ This repository contains the code for the MM'19 paper "Learning Subjective Attri
 The code allowing training a model to learn subjective attributes on the marketing and personality datasets.
 
 ## Running the code
-1. download and unzip the folder data in the main folder
+1. download and unzip the folder [data/](http://www.micc.unifi.it/uricchio/subjective/data.zip) in the main folder, next to the folder code/
 2. cd to the main folder 
 3. run the following command:
 ```
